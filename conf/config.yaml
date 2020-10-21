@@ -1,0 +1,34 @@
+runmode: debug
+port: 8086
+name: Go_API_learning
+url: http://127.0.0.1:8086
+max_ping_count: 10
+db_prefix: tb_
+jwt_secret: h3l1OW0r1d666bY1nitn3w0r1d
+
+tls:
+  port: 8088
+  cert: conf/server.crt
+  key: conf/server.key
+
+log:
+  writers: file,stdout
+  logger_level: DEBUG
+  logger_file: log/server.log
+  log_format_text: false
+  rollingPolicy: size
+  log_rotate_date: 1
+  log_rotate_size: 1024
+  log_backup_count: 7
+
+db:
+  name: db_apiserver
+  addr: 127.0.0.1:3306
+  username: apiserver
+  password: apiserver
+
+docker_db:
+  name: db_apiserver
+  addr: 127.0.0.1:3306
+  username: apiserver
+  password: apiserver

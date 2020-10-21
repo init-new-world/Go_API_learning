@@ -1,0 +1,39 @@
+{"level":"INFO","timestamp":"2020-07-02 20:19:29.493","file":"Go_API_learning/main.go:42","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-02 20:19:29.493","file":"Go_API_learning/main.go:39","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-07-03 11:34:54.981","file":"Go_API_learning/main.go:46","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-03 11:34:54.981","file":"Go_API_learning/main.go:43","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-07-03 11:37:02.918","file":"Go_API_learning/main.go:46","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-03 11:37:02.918","file":"Go_API_learning/main.go:43","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-07-03 11:39:00.473","file":"Go_API_learning/main.go:46","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-03 11:39:00.474","file":"Go_API_learning/main.go:43","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-07-03 15:12:08.089","file":"Go_API_learning/main.go:46","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-03 15:12:08.089","file":"Go_API_learning/main.go:43","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-07-03 16:44:55.384","file":"Go_API_learning/main.go:46","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-03 16:44:55.384","file":"Go_API_learning/main.go:43","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2020-07-03 16:46:57.715","file":"user/create.go:24","msg":"Username: ,Password: "}
+{"level":"ERROR","timestamp":"2020-07-03 16:46:57.715","file":"user/create.go:28","msg":"Username empty error.","data":{"error":"Err - code: 20101, message: The username is incorrect Added message., error: Username empty."}}
+{"level":"ERROR","timestamp":"2020-07-03 16:46:57.716","file":"user/create.go:33","msg":"Password empty error.","data":{"error":"Err - code: 20102, message: The password is incorrect, error: Password empty."}}
+{"level":"INFO","timestamp":"2020-07-03 16:47:33.649","file":"Go_API_learning/main.go:46","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-03 16:47:33.649","file":"Go_API_learning/main.go:43","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2020-07-03 16:47:37.948","file":"user/create.go:24","msg":"Username: ,Password: "}
+{"level":"ERROR","timestamp":"2020-07-03 16:47:37.948","file":"user/create.go:28","msg":"Username empty error.","data":{"error":"Err - code: 20101, message: The username is incorrect Added message., error: Username empty."}}
+{"level":"ERROR","timestamp":"2020-07-03 16:47:37.948","file":"user/create.go:33","msg":"Password empty error.","data":{"error":"Err - code: 20102, message: The password is incorrect, error: Password empty."}}
+{"level":"INFO","timestamp":"2020-07-03 16:59:42.031","file":"Go_API_learning/main.go:46","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-03 16:59:42.032","file":"sd/check.go:130","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2020-07-03 16:59:43.032","file":"Go_API_learning/main.go:43","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-07-03 17:02:22.906","file":"Go_API_learning/main.go:46","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-03 17:02:22.906","file":"Go_API_learning/main.go:43","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-07-03 17:04:55.919","file":"Go_API_learning/main.go:46","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-03 17:04:55.920","file":"Go_API_learning/main.go:43","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2020-07-03 17:05:05.413","file":"user/create.go:24","msg":"Username: administrator,Password: Hello,world!"}
+{"level":"DEBUG","timestamp":"2020-07-03 17:05:05.414","file":"user/create.go:24","msg":"Username: administrator,Password: "}
+{"level":"ERROR","timestamp":"2020-07-03 17:05:05.414","file":"user/create.go:33","msg":"Password empty error.","data":{"error":"Err - code: 20102, message: The password is incorrect., error: Password empty."}}
+{"level":"DEBUG","timestamp":"2020-07-03 17:05:05.416","file":"user/create.go:24","msg":"Username: ,Password: Hello,world!"}
+{"level":"ERROR","timestamp":"2020-07-03 17:05:05.416","file":"user/create.go:28","msg":"Username empty error.","data":{"error":"Err - code: 20101, message: The username is incorrect. Added message., error: Username empty."}}
+{"level":"INFO","timestamp":"2020-07-03 17:07:20.840","file":"Go_API_learning/main.go:46","msg":"Start Server at Port 8086"}
+{"level":"INFO","timestamp":"2020-07-03 17:07:20.841","file":"Go_API_learning/main.go:43","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2020-07-03 17:07:26.668","file":"user/create.go:24","msg":"Username: administrator,Password: Hello,world!"}
+{"level":"DEBUG","timestamp":"2020-07-03 17:07:26.670","file":"user/create.go:24","msg":"Username: administrator,Password: "}
+{"level":"ERROR","timestamp":"2020-07-03 17:07:26.670","file":"user/create.go:33","msg":"User_Create_Error","data":{"error":"Err - code: 20102, message: The password is empty., error: Password empty."}}
+{"level":"DEBUG","timestamp":"2020-07-03 17:07:26.671","file":"user/create.go:24","msg":"Username: ,Password: Hello,world!"}
+{"level":"ERROR","timestamp":"2020-07-03 17:07:26.672","file":"user/create.go:28","msg":"User_Create_Error","data":{"error":"Err - code: 20101, message: The username is empty., error: Username empty."}}
